@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on building Mobile Applications using Flutter.
-- 🌱 I’m currently learning about Game Theory
+- 🌱 I’m currently learning about Game Theory.
 - 👯 I’m looking to collaborate on Mobile Application and Machine Learning domains.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about --> 
